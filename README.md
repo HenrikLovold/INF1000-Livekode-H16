@@ -1,2 +1,5 @@
 # INF1000-Livekode-H16
-Kode fra timene mine i INF1000 høsten 2016.
+
+Kode fra mine gruppetimer i INF1000 høsten 2016. Gjør hva du vil med koden, så lenge du ikke bruker den direkte i obligene dine.
+
+Oppgaver fra Trix gis følgende filnavn: OppgaveXXX, hvor XXX representerer oppgavenummeret (x.x.x). For eksempel: Oppgave 1.1.2 -> Oppgave112.java
